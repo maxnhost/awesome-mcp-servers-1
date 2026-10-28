@@ -6441,6 +6441,20 @@
     "official": false
   },
   {
+    "name": "Nhost MCP Server",
+    "url": "https://github.com/nhost/nhost/tree/main/cli",
+    "description": "Official Nhost MCP server, bundled with the Nhost CLI, that lets AI agents read your GraphQL schema, run the queries you allow, and manage permissions and migrations.",
+    "category": "databases-and-storage",
+    "language": "Go",
+    "provider": "Nhost",
+    "tags": [
+      "postgres",
+      "graphql",
+      "backend"
+    ],
+    "official": true
+  },
+  {
     "name": "Supabase MCP Server",
     "url": "https://github.com/supabase-community/supabase-mcp",
     "description": "Community-maintained integration for Supabase projects, tables, and auth through MCP tools.",
